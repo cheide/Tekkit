@@ -1,6 +1,7 @@
 These are a couple of plugins that I wrote for my Tekkit server to
-help with a few issues that came up.  These should work with
-3.0.4 and 3.1.1 servers.
+help with a few issues that came up.  Prebuilt jars that should work with
+3.0.4 and 3.1.1 servers are in the 'output' folder, and you just
+need to put them in the server's 'plugin' directory.
 
 NFItemWatch monitors for loose item entities lying around on
 the ground and warns you if there are too many accumulating and
