@@ -1,0 +1,8 @@
+name: NFItemWatch
+main: com.planetcrushers.bukkit.NFItemWatch.NFItemWatch
+version: 1.0.0
+commands:
+  nfitem:
+    description: Controls the NFItemWatch plugin.
+    permission: nfitemwatch.nfitem
+    usage: /nfitem info

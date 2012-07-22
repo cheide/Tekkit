@@ -1,0 +1,7 @@
+name: NFChunk
+main: com.planetcrushers.bukkit.NFChunk.NFChunk
+version: 1.0.0
+commands:
+  chunk:
+    description: Controls the NFChunk plugin.
+    usage: /chunk check
